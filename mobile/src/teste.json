@@ -1,0 +1,106 @@
+[
+    {
+        "BSSID": "cc:50:e3:9c:48:09",
+        "SSID": "ESP32-Access-Point",
+        "capabilities": "[WPA2-PSK-CCMP+TKIP][ESS]",
+        "frequency": 2412,
+        "level": -37,
+        "timestamp": 1113947605393
+    },
+    {
+        "BSSID": "00:1d:7e:f2:8d:fc",
+        "SSID": "Home Network",
+        "capabilities": "[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]",
+        "frequency": 2437,
+        "level": -50,
+        "timestamp": 1113951656020
+    },
+    {
+        "BSSID": "70:54:d2:ef:fd:6a",
+        "SSID": "d4e542",
+        "capabilities": "[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]",
+        "frequency": 2412,
+        "level": -69,
+        "timestamp": 1113947596226
+    },
+    {
+        "BSSID": "72:54:d2:ef:fd:6c",
+        "SSID": "#NET-CLARO-WIFI",
+        "capabilities": "[ESS]",
+        "frequency": 2412,
+        "level": -70,
+        "timestamp": 1113947603303
+    },
+    {
+        "BSSID": "c8:b4:22:e4:d7:1f",
+        "SSID": "Oliveira",
+        "capabilities": "[WPA2-PSK-CCMP][ESS][WPS]",
+        "frequency": 2432,
+        "level": -73,
+        "timestamp": 1113947883091
+    },
+    {
+        "BSSID": "c8:b4:22:e4:d7:1e",
+        "SSID": "Oliveira-5G",
+        "capabilities": "[WPA2-PSK-CCMP][ESS][WPS]",
+        "frequency": 5220,
+        "level": -78,
+        "timestamp": 1113948619956
+    },
+    {
+        "BSSID": "c6:b4:22:e4:d7:1e",
+        "SSID": "Oliveira",
+        "capabilities": "[WPA2-PSK-CCMP][ESS][WPS]",
+        "frequency": 5220,
+        "level": -79,
+        "timestamp": 1113948620740
+    },
+    {
+        "BSSID": "84:a4:23:a2:d3:db",
+        "SSID": "Petrocino",
+        "capabilities": "[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]",
+        "frequency": 2462,
+        "level": -80,
+        "timestamp": 1113948291331
+    },
+    {
+        "BSSID": "d6:2c:0f:51:16:83",
+        "SSID": "#NET-CLARO-WIFI",
+        "capabilities": "[ESS]",
+        "frequency": 2452,
+        "level": -82,
+        "timestamp": 1113948158131
+    },
+    {
+        "BSSID": "ec:be:dd:f5:e1:a0",
+        "SSID": "NET_2GF5E19B",
+        "capabilities": "[WPA2-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]",
+        "frequency": 2412,
+        "level": -84,
+        "timestamp": 1113947598773
+    },
+    {
+        "BSSID": "ee:be:dd:f5:e3:a3",
+        "SSID": "#NET-CLARO-WIFI",
+        "capabilities": "[ESS]",
+        "frequency": 2412,
+        "level": -84,
+        "timestamp": 1113947601062
+    },
+    {
+        "BSSID": "d4:2c:0f:51:16:82",
+        "SSID": "NET",
+        "capabilities": "[WPA2-PSK-CCMP][ESS][WPS]",
+        "frequency": 2452,
+        "level": -84,
+        "timestamp": 1113948150670
+    },
+    {
+        "BSSID": "c0:3d:d9:7e:6e:60",
+        "SSID": "CAMILA",
+        "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS][WPS]",
+        "frequency": 2437,
+        "level": -88,
+        "timestamp": 1113947951610
+    }
+]

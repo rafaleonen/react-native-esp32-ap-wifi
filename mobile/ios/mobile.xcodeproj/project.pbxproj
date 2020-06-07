@@ -16,7 +16,7 @@
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* mobileTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* mobileTests.m */; };
-		AED931190A834E1FB86BFCDE /* feather1s.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 24CB3AE0CA284658B16F9BED /* feather1s.ttf */; };
+		8411B7BCD1CD4B6C8D5EA9EE /* feather1s.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 41DC32E3910941A880245BF4 /* feather1s.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,7 +52,7 @@
 		2D02E4901E0B4A5D006451C7 /* mobile-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mobile-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		24CB3AE0CA284658B16F9BED /* feather1s.ttf */ = {isa = PBXFileReference; name = "feather1s.ttf"; path = "../node_modules/react-native-feather1s/Fonts/feather1s.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		41DC32E3910941A880245BF4 /* feather1s.ttf */ = {isa = PBXFileReference; name = "feather1s.ttf"; path = "../node_modules/react-native-feather1s/Fonts/feather1s.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,7 +142,7 @@
 				00E356EF1AD99517003FC87E /* mobileTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
-				34FB2A6151BF492AAB143DA1 /* Resources */,
+				DE04DA6480AA4476BED5AD9A /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -160,10 +160,10 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		34FB2A6151BF492AAB143DA1 /* Resources */ = {
+		DE04DA6480AA4476BED5AD9A /* Resources */ = {
 			isa = "PBXGroup";
 			children = (
-				24CB3AE0CA284658B16F9BED /* feather1s.ttf */,
+				41DC32E3910941A880245BF4 /* feather1s.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -307,7 +307,7 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-				AED931190A834E1FB86BFCDE /* feather1s.ttf in Resources */,
+				8411B7BCD1CD4B6C8D5EA9EE /* feather1s.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
