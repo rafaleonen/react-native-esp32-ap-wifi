@@ -15,7 +15,7 @@
     "@react-navigation/stack": "^5.4.1",
     "add": "^2.0.6",
     "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-native-android-wifi": "^0.0.41",
     "react-native-feather1s": "^0.2.2",
     "react-native-gesture-handler": "^1.6.1",
